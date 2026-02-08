@@ -16,9 +16,7 @@
 
 ### 📈 GitHub Stats
 
-![Betererokay's github stats](https://github-readme-stats.vercel.app/api?username=betererokay&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=betererokay&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=betererokay&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 ---
